@@ -1,0 +1,6 @@
+.App {
+  display: grid;
+  grid-template-rows: auto 1fr; /* Define grid rows */
+  min-height: 100vh;
+  gap: 20px; /* Ajusta este valor según sea necesario */
+}

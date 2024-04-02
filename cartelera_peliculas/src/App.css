@@ -1,0 +1,9 @@
+.navbar2 {
+  display: grid;
+  row-gap: 10px;
+  margin-bottom: 200px;
+  height: 200px;
+}
+.carrusel {
+  padding-top: 20px; /* Ajusta este valor según sea necesario */
+}
